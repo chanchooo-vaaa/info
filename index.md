@@ -1,4 +1,4 @@
-![chancho va](https://github.com/chanchooo-vaaa/chanchooo-vaaa/blob/master/img/chanchova.jpg?raw=true)
+![chancho va](https://github.com/chanchooo-vaaa/info/blob/master/img/WhatsApp%20Image%202020-09-11%20at%2015.07.11.jpg?raw=true)
 
 >Chancho va es un juego para diseñadores de tipografía aburridxs de la rutina y el trabajo solitario. Aquí los archivos circulan y lxs jugadorxs trabajan colaborativamente.
 
@@ -47,15 +47,15 @@ Esto es un juego, no es un espacio de crítica de diseño.
 ![img](https://github.com/CaroGiovagnoli/chancho_va/raw/master/img/grafico.jpg?raw=true)
 
 *Round 1:*
-- Jugador 1 - `Archivo 1.UFO`. 
-- Jugador 2 - `Archivo 2.UFO`. 
-- Jugador 3 - `Archivo 3.UFO`. 
+- Jugador 1 - `Archivo 1.ufo`. 
+- Jugador 2 - `Archivo 2.ufo`. 
+- Jugador 3 - `Archivo 3.ufo`. 
 
 
 *Round 2:*
-- Jugador 1 - `Archivo 3.UFO`. 
-- Jugador 2 - `Archivo 1.UFO`. 
-- Jugador 3 - `Archivo 2.UFO`. 
+- Jugador 1 - `Archivo 3.ufo`. 
+- Jugador 2 - `Archivo 1.ufo`. 
+- Jugador 3 - `Archivo 2.ufo`. 
 
 
 Luego de repartidos los archivos para el nuevo round, todo vuelve a empezar.   
