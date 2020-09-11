@@ -93,3 +93,129 @@ Aplicamos la lógica de un juego de cartas/naipes popular en Argentina llamado �
 
 Cada jugador recibía un archivo iniciado por otro participante, que contenía un par de signos y ninguna descripción o explicación. Mediante la observación de los elementos identitarios del sistema tipográfico incompleto recibido, se debían agregar nuevos signos manteniendo la coherencia y sin alterar lo ya hecho, para luego pasar el archivo al siguiente jugador. Así nos enfrentamos a desarrollar estilos o situaciones de diseño que individualmente no hubiéramos abordado nunca. 
 A partir de esta premisa lúdica de carácter virtual fue que lo consideramos una propuesta interesante para compartir en el marco de TypeWknd.
+
+
+Chancho va é um jogo para typeface designers entediados da rotina e de trabalhar sozinhos. Aqui, os arquivos vão circular e o jogadorxs devem trabalhar de forma colaborativa.
+
+O jogo começa quando a cada jogadxr é assignadx um arquivo que contém algumas letras como pista. Então, em simultâneo, todxs devem desenhar novas letras nos arquivos recebidos, salvar, fechar e passar o arquivo ao seguinte jogadxr e gritar «¡chancho va!». 
+Na medida que avança as rodadas, os arquivos vão completando o seu set de caracteres com o trabalho de todxs.
+
+Os requisitos para jogar são: 
+Computador conectado à internet, acesso e conhecimento das ferramentas de desenho de tipografia e experiência no uso de GitHub
+
+Para mais informações sobre requisitos, regras do jogo e o legais, entre no seguinte link :)
+
+
+
+### PORTUGUÊS
+## O JOGO/WS “CHANCHO VA” 
+
+>Chancho va é um jogo para typeface designers entediados da rotina e de trabalhar sozinhos. Aqui, os arquivos vão circular e o jogadorxs devem trabalhar de forma colaborativa.
+
+>O jogo começa quando a cada jogadxr é assignadx um arquivo que contém algumas letras como pista. Então, em simultâneo, todxs devem desenhar novas letras nos arquivos recebidos, salvar, fechar e passar o arquivo ao seguinte jogadxr e gritar «¡chancho va!». 
+Na medida que avança as rodadas, os arquivos vão completando o seu set de caracteres com o trabalho de todxs.
+
+## Os requisitos para jogar são: 
+Computador conectado à internet, acesso e conhecimento das ferramentas de desenho de tipografia e experiência no uso de GitHub
+
+Para mais informações sobre requisitos, regras do jogo e o legais, entre no seguinte link :)
+
+## Isto seria mais ou menos assim: 
+São 10 jogadores online e 10 arquivos com um sistema tipográfico incompleto.
+A cada jogador se lhe assigna um arquivo, por exemplo, Jogador 1 > Chancho1.ufo. O jogador abre e a partir de então tem 5 minutos para desenhar e agregar até dois novos glifos seguindo a coerência dos letras preexistentes. 
+Passado o tempo, todos os jogadores salvam os arquivos e atualizam a pasta.  Assim termina o primeiro round.
+Para começar o segundo round, cada jogador baixa o arquivo seguinte, por exemplo, Jogador 1 > Chancho2.ufo. Abre, adiciona seus glifos, salva e volta a fazer o upload da pasta.
+
+Os rounds se repetem até acabar os alfabetos ou que termine o tempo.
+
+A dinâmica do intercâmbio se realiza através de uma pasta compartilhada em GitHub com arquivos editáveis (UFOs) e compatíveis com vários programas de edição.
+
+
+### Advertência
+
+Alerta: Isto é um jogo, não é um espaço para críticas de desenho.
+
+
+### Como jogar
+
+- Se apresentam todos os participantes.
+- A cada participante lhe é designado um posto [1, 2, 3… 20 ] que permanecerá durante todo o jogo. 
+Cada participante deve realizar uma ação de PULL e tomar da sua pasta local o arquivo correspondente a seu posto [Ufo1, Ufo2, Ufo3… Ufo20] e informar ao moderador que já está pronto para começar.
+- Quando os moderadores verificarem que todos já possuem seus arquivos correspondentes se dá início à primeira rodada com grito de: “¡Chancho va!”.
+- Cada volta dura no máximo 10 minutos, e cada participante deverá: 
+-- *Agregar* novos glifos ao arquivo com o qual está jogando (mínimo 1/ máximo 2).
+-- *Exportar* um arquivo UFO que reemplazará ao original ao guardar no mesmo lugar (pasta local do repositório) e com o mesmo nome.
+-- *Grita “¡chancho!”* para indicar ao moderador que está pronto para carregar sua modificação no repositório
+- Logo de receber a autorização do moderador, o participante deverá realizar o upload da pasta seguindo a sequência:
+
+1. `COMMIT`: escrever o seguinte _commit:_ "round x - nome do jogador".  
+2. `PUSH`: Fazer _push_ das alterações.  
+3. `PULL`: atualizo a pasta do repositório com as alterações que outros jogadores tenham _pusheado_  
+
+
+- No caso que algum participante não chegue a terminar uma vez transcorridos os 5 minutos, poderão realizar o upload –prévia autorização do moderador– segundo a ordem do seus postos.
+- No caso que algum participante fique com 1 ou 2 glifos sem terminar, deverá eliminar o desenho incompleto para não confundir ao seguinte participante.
+
+- Quando todos os participantes tenham feito o upload de seus arquivos finaliza o primeiro round.
+
+- O segundo round começa quando o moderador indica que cada participante deve pegar o arquivo correspondente ao seguinte posto. 
+
+#### Ejemplo:
+
+![img](https://github.com/CaroGiovagnoli/chancho_va/raw/master/img/grafico.jpg?raw=true)
+
+*Round 1:*
+- Jugador 1 - `Arquivo 1.ufo`. 
+- Jugador 2 - `Arquivo 2.ufo`. 
+- Jugador 3 - `Arquivo 3.ufo`. 
+
+
+*Round 2:*
+- Jogador 1 - `Arquivo 3.ufo`. 
+- Jogador 2 - `Arquivo 1.ufo`. 
+- Jogador 3 - `Arquivo 2.ufo`. 
+
+Depois de designados os arquivos para o novo round, tudo volta do zero. 
+`pull` `desenhar` `commit` `push` se repete até completar todo o alfabeto ou terminar o tempo.
+
+
+### Regras de convivência
+
+- O link com acesso ao jogo é individual e intransferível.
+- Qualquer conduta ofensiva provocará que o jogador seja desqualificado.
+- Chancho va é um jogo, não é um espaço para críticas de desenho.
+- Manter a consistência com o desenho recebido nos novos glifos a desenhar.
+- Não realizar modificações nos glifos desenhados por outros participantes.
+- Respeitar o tempo de cada ROUND para desenhar e fazer o upload da pasta.
+- Adiciona no mínimo 1 (uma) e no máximo de 2 (duas) letras ao arquivo. Se não terminar alguma, eliminar o desenho incompleto.
+- Não realizar modificações no original de cada arquivo.
+- Não realizar modificações no nome ou lugar de origem dos arquivos (Abrir > Modificar > Salvar > Fechar).
+- Não preocuparse com o espaçamento dos arquivos.
+- Respeitar a ordem para intervenir segundo o posto de cada participante (PULL - COMMIT - PUSH). Quando um participante grita “Chancho” e  é autorizado pelo moderador, é seu momento de carga ao repositório e nenhum outro participante pode sobreponerse.
+
+- Respeitar o formato do commit 
+“Round X - Nome do jogador”
+
+- Os programas com os quais se podem jogar são Robofont, FontForge, Glyphs e Fontlab 6 (Para saber mais sobre as versões dos programas que trabalham com UFO ver Requisitos Prévios).
+
+
+### Avisos legales
+
+- Tudo que se desenhe no Jogo não pode ser comercializado nem pelos realizadores nem pelos participantes. Antes de iniciar o jogo, os participantes devem deixar seus dados e aderir a licença e forma de trabalho proposta.
+- Tudo que for produzido durante o jogo se rige pela licença SIL Open Font License (OFL): LINK
+
+===
+
+### HISTÓRIA PRELIMINAR DO JOGO: “CHANCHO VA” DE QUARENTENA
+
+Durante a primeira parte da Quarentena, armamos um grupo que nos motive a desenhar letras, que talvez em outro momentos não tínhamos encontrado o tempo.
+
+Aplicamos a lógica de um juego de cartas/naipes popular na Argentina chamado “chancho va” e adaptamos as regras, em vez de fazer circular cartas/naipes aqui circulavam arquivos de Glyphs com o objetivo de desenhar alfabetos de maneira coletiva.
+
+Cada jogador recebeu um arquivo feito por outro, que tinha algumas letras e nenhuma descrição ou explicação. Ao observar os elementos do sistema tipográfico incompleto recebido, se adicionava novas letras mantendo a coerência e sem alterar o que já estava feito, para logo passar o arquivo ao próximo jogador. Assim nos enfrentamos com estilos ou situações de desenho que individualmente nunca não teríamos abordado. 
+A partir dessa premissa lúdica e virtual foi que consideramos interessante compartilhar essa proposta dentro do TypeWknd.
+
+
+
+
+
