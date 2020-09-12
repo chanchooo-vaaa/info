@@ -107,20 +107,20 @@ Para mais informações sobre requisitos, regras do jogo e o legais, entre no se
 
 
 
-### PORTUGUÊS
+
+# PORTUGUÊS
+
 ## O JOGO/WS “CHANCHO VA” 
 
->Chancho va é um jogo para typeface designers entediados da rotina e de trabalhar sozinhos. Aqui, os arquivos vão circular e o jogadorxs devem trabalhar de forma colaborativa.
+>*Chancho va* é um jogo para typeface designers entediados da rotina e de trabalhar sozinhos. Aqui, os arquivos vão circular e o jogadorxs devem trabalhar de forma colaborativa.
 
 >O jogo começa quando a cada jogadxr é assignadx um arquivo que contém algumas letras como pista. Então, em simultâneo, todxs devem desenhar novas letras nos arquivos recebidos, salvar, fechar e passar o arquivo ao seguinte jogadxr e gritar «¡chancho va!». 
 Na medida que avança as rodadas, os arquivos vão completando o seu set de caracteres com o trabalho de todxs.
 
-## Os requisitos para jogar são: 
-Computador conectado à internet, acesso e conhecimento das ferramentas de desenho de tipografia e experiência no uso de GitHub
+### Os requisitos para jogar são: 
+Computador conectado à internet, acesso e conhecimento das ferramentas de desenho de tipografia e experiência no uso de GitHub (`comit` `push` `pull`). 
 
-Para mais informações sobre requisitos, regras do jogo e o legais, entre no seguinte link :)
-
-## Isto seria mais ou menos assim: 
+### Isto seria mais ou menos assim: 
 São 10 jogadores online e 10 arquivos com um sistema tipográfico incompleto.
 A cada jogador se lhe assigna um arquivo, por exemplo, Jogador 1 > Chancho1.ufo. O jogador abre e a partir de então tem 5 minutos para desenhar e agregar até dois novos glifos seguindo a coerência dos letras preexistentes. 
 Passado o tempo, todos os jogadores salvam os arquivos e atualizam a pasta.  Assim termina o primeiro round.
@@ -154,13 +154,12 @@ Cada participante deve realizar uma ação de PULL e tomar da sua pasta local o 
 
 
 - No caso que algum participante não chegue a terminar uma vez transcorridos os 5 minutos, poderão realizar o upload –prévia autorização do moderador– segundo a ordem do seus postos.
-- No caso que algum participante fique com 1 ou 2 glifos sem terminar, deverá eliminar o desenho incompleto para não confundir ao seguinte participante.
+- No caso que algum participante fique com 1 ou 2 glifos sem terminar, deverá eliminar o desenho incompleto para não confundir ao seguinte participante debe ou `ignorar alterações no GitHub`.
 
 - Quando todos os participantes tenham feito o upload de seus arquivos finaliza o primeiro round.
 
-- O segundo round começa quando o moderador indica que cada participante deve pegar o arquivo correspondente ao seguinte posto. 
+- O segundo round começa quando todos os participante fazem `PULL` do repositório e o moderador distribui os arquivos. 
 
-#### Ejemplo:
 
 ![img](https://github.com/CaroGiovagnoli/chancho_va/raw/master/img/grafico.jpg?raw=true)
 
@@ -191,9 +190,9 @@ Depois de designados os arquivos para o novo round, tudo volta do zero.
 - Não realizar modificações no original de cada arquivo.
 - Não realizar modificações no nome ou lugar de origem dos arquivos (Abrir > Modificar > Salvar > Fechar).
 - Não preocuparse com o espaçamento dos arquivos.
-- Respeitar a ordem para intervenir segundo o posto de cada participante (PULL - COMMIT - PUSH). Quando um participante grita “Chancho” e  é autorizado pelo moderador, é seu momento de carga ao repositório e nenhum outro participante pode sobreponerse.
+- Respeitar a ordem para intervenir segundo o posto de cada participante (`PULL``COMMIT``PUSH`). Quando um participante grita “Chancho” e  é autorizado pelo moderador, é seu momento de carga ao repositório e nenhum outro participante pode sobreponerse.
 
-- Respeitar o formato do commit 
+- Respeitar o formato do `commit` 
 “Round X - Nome do jogador”
 
 - Os programas com os quais se podem jogar são Robofont, FontForge, Glyphs e Fontlab 6 (Para saber mais sobre as versões dos programas que trabalham com UFO ver Requisitos Prévios).
