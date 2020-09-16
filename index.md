@@ -182,15 +182,10 @@ Depois de designados os arquivos para o novo round, tudo volta do zero.
 - Não realizar modificações no original de cada arquivo.
 - Não realizar modificações no nome ou lugar de origem dos arquivos (Abrir > Modificar > Salvar > Fechar).
 - Não preocuparse com o espaçamento dos arquivos.
-<<<<<<< HEAD
 - Respeitar a ordem para intervenir segundo o posto de cada participante (PULL - COMMIT - PUSH). Quando um participante grita “Chancho” e  é autorizado pelo moderador, é seu momento de carga ao repositório e nenhum outro participante pode sobreponerse.
 - Respeitar o formato do commit 
-=======
 - Respeitar a ordem para intervenir segundo o posto de cada participante (`PULL``COMMIT``PUSH`). Quando um participante grita “Chancho” e  é autorizado pelo moderador, é seu momento de carga ao repositório e nenhum outro participante pode sobreponerse.
-
-- Respeitar o formato do `commit` 
->>>>>>> cb9609faef2435db20a59ede58f9a44e7edc66f3
-“Round X - Nome do jogador”
+- Respeitar o formato do `commit`: “Round X - Nome do jogador”
 - Os programas com os quais se podem jogar são Robofont, FontForge, Glyphs e Fontlab 6.
 
 
@@ -199,7 +194,6 @@ Depois de designados os arquivos para o novo round, tudo volta do zero.
 - Tudo que se desenhe no Jogo não pode ser comercializado nem pelos realizadores nem pelos participantes. Antes de iniciar o jogo, os participantes devem deixar seus dados e aderir a licença e forma de trabalho proposta.
 - Tudo que for produzido durante o jogo se rige pela licença SIL Open Font License (OFL): LINK
 
-===
 
 ### História preliminar do jogo: “Chancho va de quarentena"
 
