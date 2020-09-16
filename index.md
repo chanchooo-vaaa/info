@@ -84,7 +84,6 @@ Luego de asignados los archivos para el nuevo round, todo vuelve a empezar.
 - Lo producido durante el taller se rige por la licencia SIL Open Font License (OFL): LINK
 
 
-===
 
 ### Historia preliminar del juego: «Chancho va de cuarentena»
 
@@ -96,25 +95,17 @@ Cada jugador recibía un archivo iniciado por otro participante, que contenía u
 A partir de esta premisa lúdica de carácter virtual fue que lo consideramos una propuesta interesante para compartir en el marco de TypeWknd.
 
 
-===
 
-
-<<<<<<< HEAD
-### PORTUGÊS
-## O jogo «Chancho va» 
-=======
 
 # PORTUGUÊS
 
-## O JOGO/WS “CHANCHO VA” 
->>>>>>> cb9609faef2435db20a59ede58f9a44e7edc66f3
+## O jogo «Chancho va»  
 
 >*Chancho va* é um jogo para typeface designers entediados da rotina e de trabalhar sozinhos. Aqui, os arquivos vão circular e o jogadorxs devem trabalhar de forma colaborativa.
 
 >O jogo começa quando a cada jogadxr é assignadx um arquivo que contém algumas letras como pista. Então, em simultâneo, todxs devem desenhar novas letras nos arquivos recebidos, salvar, fechar e passar o arquivo ao seguinte jogadxr e gritar «¡chancho va!». 
 Na medida que avança as rodadas, os arquivos vão completando o seu set de caracteres com o trabalho de todxs.
 
-<<<<<<< HEAD
 ## Os requisitos para jogar são: 
 
 - Computador com software de desenho tipográfico.
@@ -122,12 +113,7 @@ Na medida que avança as rodadas, os arquivos vão completando o seu set de cara
 - Experiência no uso de GitHub (`pull` `comit` `push`).
 
 ## Mais detalhes: 
-=======
-### Os requisitos para jogar são: 
-Computador conectado à internet, acesso e conhecimento das ferramentas de desenho de tipografia e experiência no uso de GitHub (`comit` `push` `pull`). 
 
-### Isto seria mais ou menos assim: 
->>>>>>> cb9609faef2435db20a59ede58f9a44e7edc66f3
 São 10 jogadores online e 10 arquivos com um sistema tipográfico incompleto.
 A cada jogador se lhe assigna um arquivo, por exemplo, Jogador 1 > Chancho1.ufo. O jogador abre e a partir de então tem 5 minutos para desenhar e agregar até dois novos glifos seguindo a coerência dos letras preexistentes. 
 Passado o tempo, todos os jogadores salvam os arquivos e atualizam a pasta.  Assim termina o primeiro round.
@@ -167,7 +153,7 @@ Cada participante deve realizar uma ação de PULL e tomar da sua pasta local o 
 
 - O segundo round começa quando todos os participante fazem `PULL` do repositório e o moderador distribui os arquivos. 
 
-
+#### Exemplo:
 
 *Round 1:*
 - Jugador 1 - `Arquivo 1.ufo`. 
