@@ -81,7 +81,7 @@ Luego de asignados los archivos para el nuevo round, todo vuelve a empezar.
 ### Avisos legales
 
 - Todo lo que se produzca en el taller no puede ser comercializado ni por los talleristas ni por los asistentes. Antes de iniciar el taller, los asistentes deben dejar sus datos y adherir a la licencia y forma de trabajo propuesta.
-- Lo producido durante el taller se rige por la licencia SIL Open Font License (OFL): LINK
+- Lo producido durante el taller se rige por la licencia SIL Open Font License (OFL)
 
 
 
