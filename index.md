@@ -1,5 +1,9 @@
 ![chancho va](https://github.com/chanchooo-vaaa/info/blob/master/img/WhatsApp%20Image%202020-09-11%20at%2015.07.11.jpg?raw=true)
 
+>Hola!   
+Somos Ange, Caro, Diogo, Flor y Muk, 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias.   
+
+
 >Chancho va es un juego para diseñadores de tipografía aburridxs de la rutina y el trabajo solitario. Aquí los archivos circulan y lxs jugadorxs trabajan colaborativamente.
 
 >El juego comienza cuando cada jugadxr es asignadx un archivo que contiene algunos glifos como pista. Entonces, simultáneamente, todxs deben dibujar algunos signos nuevos en los archivos recibidos, salvar, cerrar y pasar el archivo al siguiente jugadxr al grito de «¡chancho va!». A medida que avancen las rondas, los archivos irán completando su set de caracteres con el trabajo de todxs.
