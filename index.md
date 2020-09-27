@@ -1,13 +1,16 @@
 ![chancho va](https://github.com/chanchooo-vaaa/info/blob/master/img/WhatsApp%20Image%202020-09-11%20at%2015.07.11.jpg?raw=true)
 
 #### Scroll down for Portuguese and English versions of this info 
-#### "Scrolleá" para las versiones en Portugués e Englés
+#### "Scrolleá" para las versiones en Portugués e Inglés
 
 
 >¡Hola!   
 Somos Ange (@ange_sa), Caro (@larana_dg), Diogo (@diogoramoreira), Flor (@orienteestudio) y Muk (@mukmonsalve), 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias.  
 
->¿Querés escribirnos? Muk Monsalve: marmonsalve@gmail.com, Angelina Sánchez: sanchezangelina@gmail.com, Diogo Ramoreira: diogoramoreira@gmail.com, Florencia Yacante Biassoni: fybsoy@gmail.com, Carolina Giovagnoli: laranadg@gmail.com
+#####Nuestro hashtag oficial es #chanchovatype.
+   
+>*¿Querés escribirnos?*   
+ Muk Monsalve: marmonsalve@gmail.com, Angelina Sánchez: sanchezangelina@gmail.com, Diogo Ramoreira: diogoramoreira@gmail.com, Florencia Yacante Biassoni: fybsoy@gmail.com, Carolina Giovagnoli: laranadg@gmail.com
 
 ## ¡CHANCHO VA!
 >¡Chancho va! es un juego para diseñadores de tipografía aburridxs de la rutina y el trabajo solitario. Aquí los archivos circulan y lxs jugadorxs trabajan colaborativamente.
@@ -339,7 +342,7 @@ The PULL - DRAW - COMMIT - PUSH will go on in every round until the time of the 
 · Everything that comes out of this workshop/experience cannot be commercialized by the chancho va team or the players. Before the game begins the players must agree to the open font SIL License terms and conditions.
 · The result of this game will be covered by the SIL Open Font License (OFL).
 
- 
+
 
 6. HOW THIS GAME CAME TO EXIST...
 
