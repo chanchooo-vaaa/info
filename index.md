@@ -7,7 +7,7 @@
 >¡Hola!   
 Somos Ange (@ange_sa), Caro (@larana_dg), Diogo (@diogoramoreira), Flor (@orienteestudio) y Muk (@mukmonsalve), 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias.  
 
-#####Nuestro hashtag oficial es #chanchovatype.
+##### Nuestro hashtag oficial es #chanchovatype.
    
 >*¿Querés escribirnos?*   
  Muk Monsalve: marmonsalve@gmail.com, Angelina Sánchez: sanchezangelina@gmail.com, Diogo Ramoreira: diogoramoreira@gmail.com, Florencia Yacante Biassoni: fybsoy@gmail.com, Carolina Giovagnoli: laranadg@gmail.com
