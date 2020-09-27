@@ -7,6 +7,17 @@
 >¡Hola!   
 Somos Ange (@ange_sa), Caro (@larana_dg), Diogo (@diogoramoreira), Flor (@orienteestudio) y Muk (@mukmonsalve), 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias.  
 
+
+Si queres jugar el chancho con tus amigues/colegas, podes hacer así los tips para comenzar podrían ser:
+- toma un archivo que tengas empezado, con un par de signos que ya estén dibujados es suficiente.
+- definan entre ustedes un orden de rotación
+- armen unas reglas básicas (en nuestro caso fue mantenernos anónimos en la primera vuelta, el tiempo que teníamos para dibujar era un día y no podíamos cambiar dibujos de otres, debíamos seguir la coherencia del sistema)
+- busquen una plataforma que les quede cómoda para rotar los archivos y colaborar (en nuestro caso fue whatsapp y mail)
+- pónganse un límite para la colaboración/dibujo (cuántos signos hacía cada uno por vuelta)
+_Y a jugar!_
+
+Si sos docente y queres adaptarlo, esperamos noticas tuyas,
+
 ##### Nuestro hashtag oficial es #chanchovatype.
    
 >*¿Querés escribirnos?*   
