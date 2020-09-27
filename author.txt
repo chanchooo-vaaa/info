@@ -1,0 +1,9 @@
+# This is the official list of project authors for copyright purposes.
+
+Muk Monsalve <marmonsalve@gmail.com>
+Angelina Sánchez <sanchezangelina@gmail.com>
+Diogo Ramoreira <diogoramoreira@gmail.com>
+Florencia Yacante Biassoni <fybsoy@gmail.com>
+Carolina Giovagnoli <laranadg@gmail.com>
+Elí Castellanos <elitype@gmail.com>
+Juan Villanueva <jv.kafka@gmail.com>
