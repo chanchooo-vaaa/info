@@ -121,8 +121,8 @@ A partir de esta premisa lúdica de carácter virtual fue que lo consideramos un
 
 
 
-# PORTUGUÊS
 
+![chancho va_PORTUGUÊS](https://github.com/chanchooo-vaaa/info/blob/master/img/portugues.jpg?raw=true)
 ## O jogo «Chancho va»  
 
 >*Chancho va* é um jogo para typeface designers entediados da rotina e de trabalhar sozinhos. Aqui, os arquivos vão circular e o jogadorxs devem trabalhar de forma colaborativa.
@@ -229,7 +229,8 @@ Cada jogador recebeu um arquivo feito por outro, que tinha algumas letras e nenh
 A partir dessa premissa lúdica e virtual foi que consideramos interessante compartilhar essa proposta dentro do TypeWknd.
 
 
-# ENGLISH
+
+![chancho va_ENGLISH](https://github.com/chanchooo-vaaa/info/blob/master/img/english.jpg?raw=true)
 >¡Hi!   
 We are Ange (@ange_sa), Caro (@larana_dg), Diogo (@diogoramoreira), Flor (@orienteestudio) & Muk (@mukmonsalve), 5 type designers from Brazil and Argentina that got together to play due to global lockdown :). We decided to adapt our type game and share it at Typweekend. This game is fun to test different drawing logics, and it could be adapted to different environments and groups. IF you play it, let us know!  
 
