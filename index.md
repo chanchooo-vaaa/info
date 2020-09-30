@@ -5,7 +5,9 @@
 
 
 >¡Hola!   
-Somos Ange (@ange_sa), Caro (@larana_dg), Diogo (@diogoramoreira), Flor (@orienteestudio) y Muk (@mukmonsalve), 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias.  
+Somos Ange (@ange_sa), Caro (@laranadg), Diogo (@diogoramoreira), Flor (@orienteestudio) y Muk (@mukmonsalve), 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias. 
+
+#### Hashtag: #chanchovatype
 
 
 Si queres jugar el chancho con tus amigues/colegas, podes hacer así los tips para comenzar podrían ser:
