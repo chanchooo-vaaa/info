@@ -7,9 +7,6 @@
 >¡Hola!   
 Somos Ange (@ange_sa), Caro (@laranadg), Diogo (@diogoramoreira), Flor (@orienteestudio) y Muk (@mukmonsalve), 5 diseñadores de tipografía de Argentina y Brasil, que en tiempos de cuarentena nos juntamos a jugar virtualmente. Decidimos transformar esa experiencia en un taller para Typweekend que difunda la mecánica y pueda replicarse en otros espacios y circunstancias. 
 
-#### Hashtag: #chanchovatype
-
-
 Si queres jugar el chancho con tus amigues/colegas, podes hacer así los tips para comenzar podrían ser:
 - toma un archivo que tengas empezado, con un par de signos que ya estén dibujados es suficiente.
 - definan entre ustedes un orden de rotación
@@ -234,7 +231,7 @@ A partir dessa premissa lúdica e virtual foi que consideramos interessante comp
 
 ![chancho va_ENGLISH](https://github.com/chanchooo-vaaa/info/blob/master/img/english.jpg?raw=true)
 >¡Hi!   
-We are Ange (@ange_sa), Caro (@larana_dg), Diogo (@diogoramoreira), Flor (@orienteestudio) & Muk (@mukmonsalve), 5 type designers from Brazil and Argentina that got together to play due to global lockdown :). We decided to adapt our type game and share it at Typweekend. This game is fun to test different drawing logics, and it could be adapted to different environments and groups. IF you play it, let us know!  
+We are Ange (@ange_sa), Caro (@laranadg), Diogo (@diogoramoreira), Flor (@orienteestudio) & Muk (@mukmonsalve), 5 type designers from Brazil and Argentina that got together to play due to global lockdown :). We decided to adapt our type game and share it at Typweekend. This game is fun to test different drawing logics, and it could be adapted to different environments and groups. IF you play it, let us know!  
 
 >¿Querés escribirnos? Muk Monsalve: marmonsalve@gmail.com, Angelina Sánchez: sanchezangelina@gmail.com, Diogo Ramoreira: diogoramoreira@gmail.com, Florencia Yacante Biassoni: fybsoy@gmail.com, Carolina Giovagnoli: laranadg@gmail.com
 
